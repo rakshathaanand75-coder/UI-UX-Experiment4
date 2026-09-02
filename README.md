@@ -14,7 +14,7 @@ Design
 4.Product Listing & Checkout/Final Action Screens
 
 ## Output:
-<img width="987" height="617" alt="image" src="https://github.com/user-attachments/assets/5839c02d-2faf-46fc-a82a-3f34b8af16b7" />
+<img width="1457" height="882" alt="image" src="https://github.com/user-attachments/assets/ae93394e-2cd8-4d11-9fe4-c512ceff2681" />
 
 
 
